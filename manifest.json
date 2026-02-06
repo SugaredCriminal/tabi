@@ -1,0 +1,22 @@
+{
+  "name": "Japan Journey - Travel Companion",
+  "short_name": "Japan Journey",
+  "description": "Complete travel companion for Japan trip Feb-Mar 2025",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fef6f0",
+  "theme_color": "#c94b4b",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='45' fill='%23c94b4b'/%3E%3Ctext x='50' y='65' font-size='50' text-anchor='middle' fill='white'%3E🌸%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='45' fill='%23c94b4b'/%3E%3Ctext x='50' y='65' font-size='50' text-anchor='middle' fill='white'%3E🌸%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
